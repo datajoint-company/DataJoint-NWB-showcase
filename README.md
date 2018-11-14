@@ -7,7 +7,10 @@ Each showcase comprises the following:
 * Basic project summary
 * Instructions to download the data
 * The DataJoint pipeline to ingest the data
-* Scripts to explort the data from the DataJoint pipeline into [NWB 2.0](https://www.nwb.org/2017/11/11/nwb-2-0-beta-released/) files.
+* Scripts to export the data from the DataJoint pipeline into [NWB 2.0](https://www.nwb.org/2017/11/11/nwb-2-0-beta-released/) files.
+
+# License
+This code and documentation can be distributed under the Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA-4.0) International [License](LICENSE.md)
 
 # The Datasets
 
