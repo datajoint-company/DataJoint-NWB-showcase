@@ -41,7 +41,7 @@ Repository: https://crcns.org/data-sets/motor-cortex/alm-3
 
 ## 5. Li et al Nature 2015 (a)
 
-Publication:  https://10.1038/nature14178
+Publication:  https://dx.doi.org/10.1038/nature14178, [PMID 25731172](https://www.ncbi.nlm.nih.gov/pubmed/25731172)
 
 Data: https://dx.doi.org/10.6080/K0MS3QNT
 
@@ -66,13 +66,33 @@ Repository: https://crcns.org/data-sets/ssc/ssc-5
 
 ## 8. Inagaki et al 2018
 
+Publication:
+
+Data:
+
+Repository:
+
 ## 9. Inagaki et al JNS 2018 
 
+Publication:
+
+Data:
+
+Repository:
+
 ## 10. Gao-2018 
+
+Publication:
 
 Data: https://dx.doi.org/10.6080/K03F4MH2
 
 Repository: http://crcns.org/data-sets/motor-cortex/alm-4/
 
 ## 11. Economo et al 2018, in press. 
+
+Publication:
+
+Data:
+
+Repository:
 
