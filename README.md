@@ -30,7 +30,7 @@ Data: https://dx.doi.org/10.6080/K03F4MH (Not available)
 
 Repository:
 
-## 3. Yu/Gutnitsky et al Nat Neurosci 2016
+## 3. Yu/Gutnisky et al Nat Neurosci 2016
 
 Publication: https://dx.doi.org/10.1038/nn.4412
 
@@ -63,7 +63,7 @@ Data: http://dx.doi.org/10.6080/K04M92GX
 Repository: http://crcns.org/data-sets/motor-cortex/alm-2
 
 
-## 7. Hires, Gutsiky et al Elife 2015.
+## 7. Hires, Gutnisky et al Elife 2015.
 
 Publication: https://dx.doi.org/10.7554/eLife.06619
 
@@ -89,7 +89,7 @@ Repository:
 
 ## 10. Gao-2018 
 
-Publication:
+Publication: https://www.nature.com/articles/s41586-018-0633-x
 
 Data: https://dx.doi.org/10.6080/K03F4MH2
 
