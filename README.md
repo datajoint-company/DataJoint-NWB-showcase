@@ -20,7 +20,9 @@ Publication: http://dx.doi.org/10.1016/j.neuron.2017.05.005
 
 Data: https://dx.doi.org/10.6080/K0S180F9 (Not available)
 
-Repository:
+Data repository:
+
+Project repository: 
 
 ## 2. Guo/Inagaki et al Nature 2017
 
@@ -28,7 +30,9 @@ Publication: https://dx.doi.org/10.1038/nature22324
 
 Data: https://dx.doi.org/10.6080/K03F4MH (Not available)
 
-Repository:
+Data repository: 
+
+Project repository: https://github.com/vathes/Guo-Inagaki-2017
 
 ## 3. Yu/Gutnisky et al Nat Neurosci 2016
 
@@ -36,7 +40,9 @@ Publication: https://dx.doi.org/10.1038/nn.4412
 
 Data: https://doi.org/10.6080/K0T43R01 
 
-Repository: http://crcns.org/data-sets/ssc/ssc-7
+Data repository: http://crcns.org/data-sets/ssc/ssc-7
+
+Project repository: 
 
 ## 4. Li/Daie et al Nature 2016
 
@@ -44,7 +50,9 @@ Publication: https://dx.doi.org/10.1038/nature17643
 
 Data: https://dx.doi.org/10.6080/K04M92GX (Incorrect)
 
-Repository: https://crcns.org/data-sets/motor-cortex/alm-3
+Data repository: https://crcns.org/data-sets/motor-cortex/alm-3
+
+Project repository: 
 
 ## 5. Li et al Nature 2015 (a)
 
@@ -52,7 +60,9 @@ Publication:  https://dx.doi.org/10.1038/nature14178, [PMID 25731172](https://ww
 
 Data: https://dx.doi.org/10.6080/K0MS3QNT
 
-Repository: https://crcns.org/data-sets/motor-cortex/alm-1
+Data repository: https://crcns.org/data-sets/motor-cortex/alm-1
+
+Project repository: 
 
 ## 6. Li et al Nature 2015 (b)
 
@@ -60,8 +70,9 @@ Publication: https://doi.org/10.1038/nature14178
 
 Data: http://dx.doi.org/10.6080/K04M92GX
 
-Repository: http://crcns.org/data-sets/motor-cortex/alm-2
+Data repository: http://crcns.org/data-sets/motor-cortex/alm-2
 
+Project repository: 
 
 ## 7. Hires, Gutnisky et al Elife 2015.
 
@@ -69,23 +80,29 @@ Publication: https://dx.doi.org/10.7554/eLife.06619
 
 Data: http://dx.doi.org/10.6080/K0MG7MDV
 
-Repository: https://crcns.org/data-sets/ssc/ssc-5
+Data repository: https://crcns.org/data-sets/ssc/ssc-5
 
-## 8. Inagaki et al 2018
+Project repository: https://github.com/vathes/Hires-Gutnisky-2015
 
-Publication:
+## 8. Inagaki et al Nature 2019
+
+Publication: https://doi.org/10.1038/s41586-019-0919-7
 
 Data:
 
-Repository:
+Data repository:
+
+Project repository: https://github.com/vathes/Inagaki-2018
 
 ## 9. Inagaki et al JNS 2018 
 
-Publication:
+Publication: https://doi.org/10.1523/JNEUROSCI.3152-17.2018
 
 Data:
 
-Repository:
+Data repository:
+
+Project repository: https://github.com/vathes/Inagaki-2018
 
 ## 10. Gao-2018 
 
@@ -93,7 +110,9 @@ Publication: https://www.nature.com/articles/s41586-018-0633-x
 
 Data: https://dx.doi.org/10.6080/K03F4MH2
 
-Repository: http://crcns.org/data-sets/motor-cortex/alm-4/
+Data repository: http://crcns.org/data-sets/motor-cortex/alm-4/
+
+Project repository: https://github.com/vathes/gao2018
 
 ## 11. Economo et al 2018, in press. 
 
@@ -101,5 +120,7 @@ Publication:
 
 Data:
 
-Repository:
+Data repository:
+
+Project repository: 
 
