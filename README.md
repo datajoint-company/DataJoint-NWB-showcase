@@ -42,7 +42,7 @@ Data: https://doi.org/10.6080/K0T43R01
 
 Data repository: http://crcns.org/data-sets/ssc/ssc-7
 
-Project repository: 
+Project repository: https://github.com/vathes/Yu-Gutnisky-2016
 
 ## 4. Li/Daie et al Nature 2016
 
