@@ -1,4 +1,4 @@
-# NWB-showcase
+# DataJoint-NWB Showcase
 
 This project showcases published datasets with matching DataJoint pipelines and NWB 2.0 export capability.
 
@@ -116,11 +116,11 @@ Project repository: https://github.com/vathes/gao2018
 
 ## 11. Economo et al 2018, in press. 
 
-Publication:
+Publication: https://doi.org/10.1038/s41586-018-0642-9
 
-Data:
+Data: 10.25378/janelia.7007846
 
-Data repository:
+Data repository: 
 
-Project repository: 
+Project repository: https://github.com/vathes/Economo-2018
 
