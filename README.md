@@ -1,4 +1,4 @@
-# NWB-showcase
+# DataJoint-NWB Showcase
 
 This project showcases published datasets with matching DataJoint pipelines and NWB 2.0 export capability.
 
