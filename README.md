@@ -62,7 +62,7 @@ Data: https://dx.doi.org/10.6080/K0MS3QNT
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-1
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-2015a
 
 ## 6. Li et al Nature 2015 (b)
 
