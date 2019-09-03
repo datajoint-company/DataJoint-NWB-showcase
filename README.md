@@ -52,7 +52,7 @@ Data: https://dx.doi.org/10.6080/K04M92GX (Incorrect)
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-3
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-Daie-2015-2016
 
 ## 5. Li et al Nature 2015 (a)
 
@@ -62,7 +62,7 @@ Data: https://dx.doi.org/10.6080/K0MS3QNT
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-1
 
-Project repository: https://github.com/vathes/Li-2015a
+Project repository: https://github.com/vathes/Li-Daie-2015-2016
 
 ## 6. Li et al Nature 2015 (b)
 
@@ -72,7 +72,7 @@ Data: http://dx.doi.org/10.6080/K04M92GX
 
 Data repository: http://crcns.org/data-sets/motor-cortex/alm-2
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-2015b
 
 ## 7. Hires, Gutnisky et al Elife 2015.
 
@@ -92,7 +92,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018
+Project repository: https://github.com/vathes/Inagaki-2018-2019
 
 ## 9. Inagaki et al JNS 2018 
 
@@ -102,7 +102,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018
+Project repository: https://github.com/vathes/Inagaki-2018-2019
 
 ## 10. Gao-2018 
 
