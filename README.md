@@ -5,8 +5,8 @@ This project showcases published datasets with matching DataJoint pipelines and 
 Each showcase comprises the following:
 
 * Basic project summary
-* Instructions to download the data
 * The DataJoint pipeline to ingest the data
+* Notebook demonstration of working with the data pipeline to query, extract data and recreate some representative figures
 * Scripts to export the data from the DataJoint pipeline into [NWB 2.0](https://www.nwb.org/2017/11/11/nwb-2-0-beta-released/) files.
 
 # License
@@ -22,7 +22,7 @@ Data: https://dx.doi.org/10.6080/K0S180F9 (Not available)
 
 Data repository:
 
-Project repository: 
+Project repository: https://github.com/vathes/Chen-2017
 
 ## 2. Guo/Inagaki et al Nature 2017
 
