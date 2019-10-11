@@ -22,7 +22,7 @@ Data: https://dx.doi.org/10.6080/K0S180F9 (Not available)
 
 Data repository:
 
-Project repository: https://github.com/vathes/Chen-2017
+Project repository: https://github.com/vathes/DJ-NWB-Chen-2017
 
 ## 2. Guo/Inagaki et al Nature 2017
 
@@ -32,7 +32,7 @@ Data: https://dx.doi.org/10.6080/K03F4MH (Not available)
 
 Data repository: 
 
-Project repository: https://github.com/vathes/Guo-Inagaki-2017
+Project repository: https://github.com/vathes/DJ-NWB-Guo-Inagaki-2017
 
 ## 3. Yu/Gutnisky et al Nat Neurosci 2016
 
@@ -42,7 +42,7 @@ Data: https://doi.org/10.6080/K0T43R01
 
 Data repository: http://crcns.org/data-sets/ssc/ssc-7
 
-Project repository: https://github.com/vathes/Yu-Gutnisky-2016
+Project repository: https://github.com/vathes/DJ-NWB-Yu-Gutnisky-2016
 
 ## 4. Li/Daie et al Nature 2016
 
@@ -52,7 +52,7 @@ Data: https://dx.doi.org/10.6080/K04M92GX (Incorrect)
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-3
 
-Project repository: https://github.com/vathes/Li-Daie-2015-2016
+Project repository: https://github.com/vathes/DJ-NWB-Li-Daie-2015-2016
 
 ## 5. Li et al Nature 2015 (a)
 
@@ -62,7 +62,7 @@ Data: https://dx.doi.org/10.6080/K0MS3QNT
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-1
 
-Project repository: https://github.com/vathes/Li-Daie-2015-2016
+Project repository: https://github.com/vathes/DJ-NWB-Li-Daie-2015-2016
 
 ## 6. Li et al Nature 2015 (b)
 
@@ -72,7 +72,7 @@ Data: http://dx.doi.org/10.6080/K04M92GX
 
 Data repository: http://crcns.org/data-sets/motor-cortex/alm-2
 
-Project repository: https://github.com/vathes/Li-2015b
+Project repository: https://github.com/vathes/DJ-NWB-Li-2015b
 
 ## 7. Hires, Gutnisky et al Elife 2015.
 
@@ -82,7 +82,7 @@ Data: http://dx.doi.org/10.6080/K0MG7MDV
 
 Data repository: https://crcns.org/data-sets/ssc/ssc-5
 
-Project repository: https://github.com/vathes/Hires-Gutnisky-2015
+Project repository: https://github.com/vathes/DJ-NWB-Hires-Gutnisky-2015
 
 ## 8. Inagaki et al Nature 2019
 
@@ -92,7 +92,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018-2019
+Project repository: https://github.com/vathes/DJ-NWB-Inagaki-2018-2019
 
 ## 9. Inagaki et al JNS 2018 
 
@@ -102,7 +102,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018-2019
+Project repository: https://github.com/vathes/DJ-NWB-Inagaki-2018-2019
 
 ## 10. Gao-2018 
 
@@ -112,7 +112,7 @@ Data: https://dx.doi.org/10.6080/K03F4MH2
 
 Data repository: http://crcns.org/data-sets/motor-cortex/alm-4/
 
-Project repository: https://github.com/vathes/gao2018
+Project repository: https://github.com/vathes/DJ-NWB-Gao-2018
 
 ## 11. Economo et al 2018, in press. 
 
@@ -122,5 +122,5 @@ Data: 10.25378/janelia.7007846
 
 Data repository: 
 
-Project repository: https://github.com/vathes/Economo-2018
+Project repository: https://github.com/vathes/DJ-NWB-Economo-2018
 
