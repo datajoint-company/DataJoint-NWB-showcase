@@ -114,7 +114,7 @@ Data repository: http://crcns.org/data-sets/motor-cortex/alm-4/
 
 Project repository: https://github.com/vathes/gao2018
 
-## 11. Economo et al 2018, in press.
+## 11. Economo et al 2018
 
 Publication: https://doi.org/10.1038/s41586-018-0642-9
 
