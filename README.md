@@ -5,8 +5,8 @@ This project showcases published datasets with matching DataJoint pipelines and 
 Each showcase comprises the following:
 
 * Basic project summary
-* Instructions to download the data
 * The DataJoint pipeline to ingest the data
+* Notebook demonstration of working with the data pipeline to query, extract data and recreate some representative figures
 * Scripts to export the data from the DataJoint pipeline into [NWB 2.0](https://www.nwb.org/2017/11/11/nwb-2-0-beta-released/) files.
 
 # License
@@ -22,7 +22,7 @@ Data: https://dx.doi.org/10.6080/K0S180F9 (Not available)
 
 Data repository:
 
-Project repository: 
+Project repository: https://github.com/vathes/Chen-2017
 
 ## 2. Guo/Inagaki et al Nature 2017
 
@@ -52,7 +52,7 @@ Data: https://dx.doi.org/10.6080/K04M92GX (Incorrect)
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-3
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-Daie-2015-2016
 
 ## 5. Li et al Nature 2015 (a)
 
@@ -62,7 +62,7 @@ Data: https://dx.doi.org/10.6080/K0MS3QNT
 
 Data repository: https://crcns.org/data-sets/motor-cortex/alm-1
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-Daie-2015-2016
 
 ## 6. Li et al Nature 2015 (b)
 
@@ -72,7 +72,7 @@ Data: http://dx.doi.org/10.6080/K04M92GX
 
 Data repository: http://crcns.org/data-sets/motor-cortex/alm-2
 
-Project repository: 
+Project repository: https://github.com/vathes/Li-2015b
 
 ## 7. Hires, Gutnisky et al Elife 2015.
 
@@ -92,7 +92,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018
+Project repository: https://github.com/vathes/Inagaki-2018-2019
 
 ## 9. Inagaki et al JNS 2018 
 
@@ -102,7 +102,7 @@ Data:
 
 Data repository:
 
-Project repository: https://github.com/vathes/Inagaki-2018
+Project repository: https://github.com/vathes/Inagaki-2018-2019
 
 ## 10. Gao-2018 
 
