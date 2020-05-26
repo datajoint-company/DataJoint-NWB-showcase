@@ -12,6 +12,12 @@ Each showcase comprises the following:
 # License
 This code and documentation can be distributed under the Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA-4.0) International [License](LICENSE.md)
 
+# Prerequisite
+
+The materials presented in the following projects assume basic familiarity with DataJoint, and the DataJoint languague in Python. An introduction to DataJoint is available [here](https://docs.datajoint.io/python/intro/Intro.html), with a short getting-started tutorial [here](https://tutorials.datajoint.io/).
+
+To setup and execute the projects in this repository, MySQL database is required. The MySQL database can be a local database setup or on cloud, for more details on setting up database server administration, see [here](https://docs.datajoint.io/python/admin/Admin.html), more conveniently, a Docker image for DataJoint-compatible MySQL can be found [here](https://github.com/datajoint/mysql-docker).
+
 # The Datasets
 
 ## 1. Chen et al Neuron 2017
